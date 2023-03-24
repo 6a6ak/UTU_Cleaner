@@ -1,6 +1,6 @@
 ## UTU_Cleaner 
 A command-line tool for cleaning temporary files in Ubuntu OS. It helps to free up disk space by deleting temporary files that are no longer needed.
-### - Prerequisites 
+### Prerequisites 
 -Ubuntu OS 
 -Python 3 
 ### Contributing 
